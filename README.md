@@ -75,3 +75,11 @@ Derudover har vi gjort brug af Djangos eget library `django.db` til at gemme inf
 En del af opgaven var at teste vores form ved at skrive et script som kunne input falsk brugerdata, men denne del nåede vi ikke at udvikle.
 
 Vores plan var at fange en 'POST' forespørgsel gennem Firefox, og genbruge det request i et Python script vha. `requests` library, med falsk data fra `faker` library ('https://pypi.org/project/Faker/').
+
+## Referencer
+https://docs.djangoproject.com/en/2.2/intro/tutorial01/
+https://www.tutorialspoint.com/django/django_quick_guide.htm
+https://docs.djangoproject.com/en/3.2/topics/templates/
+https://docs.djangoproject.com/en/3.2/topics/forms/
+https://pypi.org/project/Faker/
+https://exceptionshub.com/django-model-doesnt-declare-an-explicit-app_label.html
